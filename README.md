@@ -1,3 +1,24 @@
+About Me 
+Github
+
+🔭 I’m currently working on BotaniBrain: Smart Plant Diseases Diagnosis , Invoicia: The Intelligent Invoice Web-App
+
+🌱 I’m currently learning Vue.js , Machine-Learning ,
+
+👯 I’m looking to collaborate on projects, tech articles...
+
+💬 Talk to me about Python, Machine Learning, Freelancing Opportunites, Open Source......
+
+Skills 
+                      
+Connect with me 
+
+Stuff I worked on last week 
+
+
+
+
+
 ## Hi there! 👋
 I'm S. Dinesh Kumar, an Artificial Intelligence and Data Science student at Panimalar Engineering College. I'm passionate about leveraging technology to make meaningful advancements, and my academic and professional journey reflects my resilience and adaptability.
 
