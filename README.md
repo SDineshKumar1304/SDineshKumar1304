@@ -1,5 +1,5 @@
 ## Hi there! 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=F70000&center=true&vCenter=true&width=470&height=80&lines=Hey%21+It%27s+Dinesh+Kumar;I%27m+an+Artificial+Intelligence+and+Data+Science+student.%F0%9F%92%BB+Data+Analyst+%7C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=F70000&center=true&vCenter=true&width=470&height=80&lines=Hey%21+It%27s+Dinesh+Kumar;Artificial+Intelligence+and+Data+Science+student.%F0%9F%92%BB+Data+Analyst+%7C)](https://git.io/typing-svg)
 
 
 
