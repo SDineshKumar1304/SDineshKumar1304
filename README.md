@@ -76,4 +76,11 @@ Artificial Intelligence and Data Science Student at Panimalar Engineering Colleg
 🎓 Bachelor of Technology - BTech, Artificial Intelligence at Panimalar Engineering College (Dec 2021 - Dec 2025).
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SDineshKumar1304-codes&show_icons=true&locale=en" alt="SDineshKumar1304" /></p>
+
+<p> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SanjayKumar-Codes&show_icons=true&locale=en&layout=compact" alt="SDineshKumar1304" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SDineshKumar1304&" alt="SDineshKumar1304" /></p>
+
+
 
