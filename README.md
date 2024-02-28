@@ -66,11 +66,11 @@ Artificial Intelligence and Data Science Student at Panimalar Engineering Colleg
 # Professional Experience
 🌐 Data Science Intern at Innomatics Research Labs (Jan 2024 - Present).
 
-🤖 Artificial Intelligence Engineer at RadicalX (Nov 2023 - Present).
+🤖 Artificial Intelligence Engineer at RadicalX ( Dec 2023 - Feb 2024).
 
-💼 Internship at ZIGSON TECHNOLOGIES PRIVATE LIMITED - Power BI Data Analysis (Dec 2023).
+💼 Internship at ZIGSON TECHNOLOGIES PRIVATE LIMITED - Power BI Data Analysis (Nov 2023 - Dec 2023).
 
-🚀 Internship at TechnoHacks EduTech - Data Science Intern (Nov 2023).
+🚀 Internship at TechnoHacks EduTech - Data Science Intern (Oct 2023 - Nov 2023).
 
 # Education
 🎓 Bachelor of Technology - BTech, Artificial Intelligence at Panimalar Engineering College (Dec 2021 - Dec 2025).
