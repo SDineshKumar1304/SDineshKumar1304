@@ -40,33 +40,10 @@ Artificial Intelligence and Data Science Student at Panimalar Engineering Colleg
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 
 <div align="left">
-  <a href = 'https://github.com/SDineshKumar1304'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-  <a href="https://www.linkedin.com/in/agarwal-himanshu" target="_blank">
+  <a href = 'https://github.com/SDineshKumar1304'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
+  </a> 
+  <a href="https://www.linkedin.com/in/s-dinesh-kumar2004" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/hiimanshu_03" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="40" alt="twitter logo"  />
-  </a>
-  <a href="mailto:himanshuaaagarwal2002@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://discordapp.com/users/752109034252927049" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="58" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/_._hiimanshu_._" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="58" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100089528615302" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="58" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://wa.me/+919967432086" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="58" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCQmwZPL8qjwh2qREwDtumYQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="58" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://t.me/hiimanshu_agarwal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="58" height="40" alt="telegram logo"  />
   </a>
 </div>
 
