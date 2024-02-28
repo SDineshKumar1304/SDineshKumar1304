@@ -40,10 +40,14 @@ Artificial Intelligence and Data Science Student at Panimalar Engineering Colleg
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 
 <div align="left">
-  <a href = 'https://github.com/SDineshKumar1304'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
+  <a href='https://github.com/SDineshKumar1304'> 
+    <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
   </a> 
   <a href="https://www.linkedin.com/in/s-dinesh-kumar2004" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:svani4830@gmail.com">
+    <img src="path/to/email/icon.svg" width="40" height="40" alt="email icon" />
   </a>
 </div>
 
