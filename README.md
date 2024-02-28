@@ -41,14 +41,17 @@ I'm S. Dinesh Kumar, an Artificial Intelligence and Data Science student at Pani
 - ©️ 2 "AI THROAT HEALTH" - an AI-powered healthcare solution addressing throat health concerns.
 
 # Skill Cerifications
-🎓 Earned certifications on Hackerrank for Basics of Python and Basics of SQL, and verified Software Engineer Intern by HackerRank.
-🥇 Proud holder of a Hackerrank gold badge for Python.
-🎓 Completed Microsoft and LinkedIn's Generative AI program, earning a certification in Career Essentials.
+- 🎓 Earned certifications on Hackerrank for Basics of Python and Basics of SQL, and verified Software Engineer Intern by HackerRank.
+- 🥇 Proud holder of a Hackerrank gold badge for Python.
+- 🎓 Completed Microsoft and LinkedIn's Generative AI program, earning a certification in Career Essentials.
 
 # Professional Experience
 🌐 Data Science Intern at Innomatics Research Labs (Jan 2024 - Present).
+
 🤖 Artificial Intelligence Engineer at RadicalX (Nov 2023 - Present).
+
 💼 Internship at ZIGSON TECHNOLOGIES PRIVATE LIMITED - Power BI Data Analysis (Dec 2023).
+
 🚀 Internship at TechnoHacks EduTech - Data Science Intern (Nov 2023).
 
 # Education
