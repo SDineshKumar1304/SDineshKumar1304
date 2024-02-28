@@ -45,6 +45,9 @@ Artificial Intelligence and Data Science Student at Panimalar Engineering Colleg
   <a href="https://www.linkedin.com/in/s-dinesh-kumar2004" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="40" alt="linkedin logo"  />
   </a>
+  <h3>
+    gmail : svani4830@gmail.com
+  </h3>
 </div>
 
 # ©️ Achievements
