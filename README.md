@@ -56,7 +56,6 @@ Artificial Intelligence and Data Science Student at Panimalar Engineering Colleg
 - ©️ 2 "AI THROAT HEALTH" - an AI-powered healthcare solution addressing throat health concerns.
 # Competions 
 - IEEE XTREME 17.0 Coding Competion Global Rank 164
-- 
 # Skill Cerifications
 - 🎓 Earned certifications on Hackerrank for Basics of Python and Basics of SQL, and verified Software Engineer Intern by HackerRank.
 - 🥇 Proud holder of a Hackerrank gold badge for Python.
