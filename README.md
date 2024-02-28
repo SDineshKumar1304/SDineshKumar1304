@@ -31,7 +31,6 @@ I'm S. Dinesh Kumar, an Artificial Intelligence and Data Science student at Pani
 </a>
 <br>
 
-
 # Achievements
 🏆 Secured copyrights from the Indian Government for two innovative software solutions in AI:
 "An Animated Character That Uses AI To Represent Emotions During Online Conversations Without Using Emojis."
