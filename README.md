@@ -1,5 +1,7 @@
 ## Hi there! 👋
-I'm S. Dinesh Kumar, an Artificial Intelligence and Data Science student at Panimalar Engineering College. I'm passionate about leveraging technology to make meaningful advancements, and my academic and professional journey reflects my resilience and adaptability.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=F70000&center=true&vCenter=true&width=470&lines=Hey!+It's+Dinesh+Kumar;I'm+a+Artificial+Intelligence +and+Data+Science+student.;%E2%9D%A4%EF%B8%8F+Data+Analyst+%7C)](https://git.io/typing-svg)
+
+       at Panimalar Engineering College. I'm passionate about leveraging technology to make meaningful advancements, and my academic and professional journey reflects my resilience and adaptability.
 <div align="center">
 
 </div>
