@@ -1,6 +1,6 @@
 ## Hi there! 👋
 <h1 align="center"> Hi, I'm S DINESH KUMAR <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"></h1>
-<h3 align="center">I'm a passionate Junior DataScientist Intern at INNOMATICS RESEARCH LABS India.</h3>
+<h3 align="center">I'm a passionate Junior Data Scientist Intern at INNOMATICS RESEARCH LABS India.</h3>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=F70000&center=true&vCenter=true&width=470&height=80&lines=Hey%21+It%27s+Dinesh+Kumar;%F0%9F%92%BB+Data+Analyst)](https://git.io/typing-svg)
@@ -50,7 +50,7 @@ Artificial Intelligence and Data Science Student at Panimalar Engineering Colleg
 - ©️ 1 "An Animated Character That Uses AI To Represent Emotions During Online Conversations Without Using Emojis."
 - ©️ 2 "AI THROAT HEALTH" - an AI-powered healthcare solution addressing throat health concerns.
 
-# Skill Cerifications
+# Skill Certifications
 - 🎓 Earned certifications on Hackerrank for Basics of Python and Basics of SQL, and verified Software Engineer Intern by HackerRank.
 - 🥇 Proud holder of a Hackerrank gold badge for Python.
 - 🎓 Completed Microsoft and LinkedIn's Generative AI program, earning a certification in Career Essentials.
@@ -66,6 +66,3 @@ Artificial Intelligence and Data Science Student at Panimalar Engineering Colleg
 
 # Education
 🎓 Bachelor of Technology - BTech, Artificial Intelligence at Panimalar Engineering College (Dec 2021 - Dec 2025).
-
-
-
