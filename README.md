@@ -37,8 +37,8 @@ I'm S. Dinesh Kumar, an Artificial Intelligence and Data Science student at Pani
 
 # ©️ Achievements
 🏆 Secured copyrights from the Indian Government for two innovative software solutions in AI:
-"An Animated Character That Uses AI To Represent Emotions During Online Conversations Without Using Emojis."
-"AI THROAT HEALTH" - an AI-powered healthcare solution addressing throat health concerns.
+- ©️ 1 "An Animated Character That Uses AI To Represent Emotions During Online Conversations Without Using Emojis."
+- ©️ 2 "AI THROAT HEALTH" - an AI-powered healthcare solution addressing throat health concerns.
 
 # Skill Cerifications
 🎓 Earned certifications on Hackerrank for Basics of Python and Basics of SQL, and verified Software Engineer Intern by HackerRank.
