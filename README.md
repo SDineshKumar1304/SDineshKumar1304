@@ -1,4 +1,8 @@
 ## Hi there! 👋
+<h1 align="center"> Hi, I'm S DINESH KUMAR <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"></h1>
+<h3 align="center">I'm a passionate Junior DataScientist Intern at INNOMATICS RESEARCH LABS India.</h3>
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=F70000&center=true&vCenter=true&width=470&height=80&lines=Hey%21+It%27s+Dinesh+Kumar;%F0%9F%92%BB+Data+Analyst)](https://git.io/typing-svg)
 
 
