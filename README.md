@@ -18,7 +18,7 @@ I'm S. Dinesh Kumar, an Artificial Intelligence and Data Science student at Pani
 
 - 👯 I’m looking to collaborate on projects, tech articles... 
 
-- 💬 Talk to me about Python, Machine LearningOpen Source...... 
+- 💬 Talk to me about Python, Machine Learning ,Open Source...... 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/shubhusion?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -50,12 +50,5 @@ I'm S. Dinesh Kumar, an Artificial Intelligence and Data Science student at Pani
 # Education
 🎓 Bachelor of Technology - BTech, Artificial Intelligence at Panimalar Engineering College (Dec 2021 - Dec 2025).
 
----
 
-### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
----
