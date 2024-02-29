@@ -20,11 +20,11 @@ Artificial Intelligence and Data Science Student at Panimalar Engineering Colleg
 
 - 🔍 I’m interested in Artificial Intelligence, Machine Learning, and all things Data Science.
 
-- 🌱 Currently, I'm learning and building predictive models to retrieve meaningful insights in the realm of Data Science.
+- 🌱 Currently, I'm learning  to deploy the projects in cloud platforms.
 
 - 💼 As a Data Science Intern at Innomatics Research Labs, I strive to deliver optimal outcomes in every project I undertake.
 
-- 👯 I’m looking to collaborate on projects, tech articles... 
+- 👯 I’m looking to collaborate on projects, Internships... 
 
 - 💬 Talk to me about Python, Machine Learning ,DataScience...... 
 
