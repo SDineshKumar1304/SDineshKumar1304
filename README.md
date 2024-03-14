@@ -52,7 +52,7 @@ Artificial Intelligence and Data Science Student at Panimalar Engineering Colleg
   </h3>
 </div>
 
-# 🏆 Achievements
+# 🏆 Achievements:
 # Successfully Deployed my first Regex Matcher and Email Validation Web Application on AWS EC2.
 # © 🏆 Secured copyrights from the Indian Government for two innovative software solutions in AI:
 - ©️ 1 "An Animated Character That Uses AI To Represent Emotions During Online Conversations Without Using Emojis."
