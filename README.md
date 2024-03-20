@@ -63,7 +63,8 @@ Artificial Intelligence and Data Science Student at Panimalar Engineering Colleg
 - 🎓 Earned certifications on Hackerrank for Basics of Python and Basics of SQL, and verified Software Engineer Intern by HackerRank.
 - 🥇 Proud holder of a Hackerrank gold badge for Python.
 - 🎓 Completed Microsoft and LinkedIn's Generative AI program, earning a certification in Career Essentials.
-
+# Recent AWS Deployment
+## Sentiment Analtyis tool : http://51.21.131.247:8501/
 # Professional Experience
 🌐 Data Science Intern at Innomatics Research Labs (Jan 2024 - Present).
 
