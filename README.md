@@ -16,8 +16,8 @@ Artificial Intelligence and Data Science Student at Panimalar Engineering Colleg
 
 
 
-- 🔭 I’m currently working as a Junior Data Scientist Intern at Innomatics Research Labs
-
+- 🔭 I’m currently working on Learning Java
+-  🤓 Ex Innominion ,Contributed as a Junior Data Science Intern !!!
 - 🔍 I’m interested in Artificial Intelligence, Machine Learning, and Data Science.
 
 - 🌱 Currently, I'm learning  to deploy the projects in cloud platforms.
