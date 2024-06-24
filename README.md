@@ -16,7 +16,7 @@ Artificial Intelligence and Data Science Student at Panimalar Engineering Colleg
 
 
 
-- 🔭 I’m currently working on Learning Java
+- 🔭 I’m currently Learning Java
 -  🤓 Ex Innominion ,Contributed as a Junior Data Science Intern !!!
 - 🔍 I’m interested in Artificial Intelligence, Machine Learning, and Data Science.
 
