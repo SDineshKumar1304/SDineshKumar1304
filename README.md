@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=SDineshKumar1304-codes&label=Profile%20views&color=0e75b6&style=flat" alt="SDineshKumar1304" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=F70000&center=true&vCenter=true&width=470&height=80&lines=Hey%21+It%27s+Dinesh+Kumar;%F0%9F%92%BB+Junior+Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=F70000&center=true&vCenter=true&width=470&height=80&lines=Hey%21+It%27s+Dinesh+Kumar;%F0%9F%92%BB+Engineer)](https://git.io/typing-svg)
 
 ---
 
@@ -100,15 +100,15 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
     <td>
       <p>Flask web app that uses ML to screen tenants.</p>
       <a href="https://github.com/SDineshKumar1304/tenant-screening-app"><img src=" link
-     <a href="https://github.com/SDineshKumar1304/tenant-screening-app"><img src="https://img.shields.io/badge/Check%20It%20Out-8E44AD?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+     <a href="https://github.com/SDineshKumar1304/Tenant_Application"><img src="https://img.shields.io/badge/Check%20It%20Out-8E44AD?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
     </td>
   </tr>
   <tr>
     <td>🎯</td>
     <td><strong>AI-Powered Throat Health Application</strong></td>
     <td>
-      <p>AI-based healthcare solution to diagnose throat health issues.</p>
-      <a href="https://github.com/SDineshKumar1304/throat-health-ai"><img src="https://img.shields.io/badge/Explore%20Project-1ABC9C?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+      <p>AI Education Assistant.</p>
+      <a href="https://github.com/SDineshKumar1304/Edu_Assistant"><img src="https://img.shields.io/badge/Explore%20Project-1ABC9C?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
     </td>
   </tr>
 </table>
