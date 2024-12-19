@@ -101,10 +101,10 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
 ## 🚀 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SDineshKumar1304?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/SDineshKumar1304)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/u/Dinesh_Kumar_S_1329/)
 
 ---
 
