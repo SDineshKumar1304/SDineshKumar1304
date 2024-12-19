@@ -104,6 +104,8 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
   <img src="https://leetcard.jacoblin.cool/SDineshKumar1304?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/SDineshKumar1304)
+
 ---
 
 ## 📬 Connect With Me
@@ -117,4 +119,3 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
   </a>
   <h3>Email: <a href="mailto:svani4830@gmail.com">svani4830@gmail.com</a></h3>
 </div>
-s
