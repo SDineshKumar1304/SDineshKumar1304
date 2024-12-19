@@ -43,7 +43,6 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
 
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dinesh_Kumar_S_1329/)
 
-
 ---
 
 
