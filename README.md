@@ -32,7 +32,7 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
 ### 🔥 GitHub Heatmap
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SDineshKumar1304&theme=github&area=true" alt="GitHub Heatmap"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SDineshKumar1304&theme=github" alt="GitHub Heatmap" />
 </p>
 
 ### 🚀 LeetCode Stats
