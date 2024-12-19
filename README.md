@@ -23,99 +23,84 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
 
 ---
 
-## Skills 💻
+## 🛠️ Skills & Technologies
+
+### **Programming Languages**
 
 <p align="left">
-  <a href="https://github.com?tab=repositories&q=&type=&language=python&sort=">
-    <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="Python">
-  </a>
-  <a href="https://github.com?tab=repositories&q=&type=&language=scikit&sort=">
-    <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg" alt="Scikit-Learn">
-  </a>
-  <a href="https://github.com?tab=repositories&q=&type=&language=html&sort=">
-    <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="HTML">
-  </a>
-  <a href="https://github.com?tab=repositories&q=&type=&language=tensorflow&sort=">
-    <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg" alt="TensorFlow">
-  </a>
-  <a href="https://github.com?tab=repositories&q=&type=&language=flask&sort=">
-    <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg" alt="Flask">
-  </a>
-  <a href="https://github.com?tab=repositories&q=&type=&language=mysql&sort=">
-    <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" alt="MySQL">
-  </a>
-  <a href="https://github.com?tab=repositories&q=&type=&language=opencv&sort=">
-    <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg" alt="OpenCV">
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+### **Libraries & Frameworks**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
+</p>
+
+### **Tools & Databases**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
-- **Secured copyrights** for two innovative software solutions in AI:
-  - 📄 **"An Animated Character That Uses AI To Represent Emotions During Online Conversations Without Using Emojis"**
-  - 🤖 **"AI THROAT HEALTH"** - An AI-powered healthcare solution for throat health concerns.
-- **IEEE XTREME 17.0 Coding Competition**: Achieved **Global Rank 164**
-
-### Skill Certifications 🎓
-
-- ✅ Certified in **Basics of Python** and **SQL** by **HackerRank**
-- 🥇 Holder of a **Hackerrank Gold Badge** for Python
-- ✅ Completed **Microsoft and LinkedIn’s Generative AI Program**
+- 📄 **Copyrights** for two innovative AI software solutions:
+  - **"An Animated Character That Uses AI To Represent Emotions During Online Conversations Without Using Emojis"**
+  - **"AI THROAT HEALTH"** - An AI-powered healthcare solution.
+- 🥇 **Global Rank 164** in **IEEE XTREME 17.0 Coding Competition**
+- ✅ **HackerRank Gold Badge** for Python
+- 📜 Certified in **Generative AI** by **Microsoft & LinkedIn**
 
 ---
 
-## 💼 Professional Experience
+## 📈 GitHub & LeetCode Stats
 
-- 🌐 **Data Science Intern** at **Innomatics Research Labs** (Jan 2024 - Present)
-- 🤖 **Artificial Intelligence Engineer Intern** at **RadicalX** (Dec 2023 - Feb 2024)
-- 📊 **Power BI Data Analysis Intern** at **Zigson Technologies Pvt. Ltd.** (Nov 2023 - Dec 2023)
-- 🚀 **Data Science Intern** at **TechnoHacks EduTech** (Oct 2023 - Nov 2023)
-
----
-
-## 🎓 Education
-
-- **Bachelor of Technology (B.Tech)** in Artificial Intelligence  
-  **Panimalar Engineering College** (Dec 2021 - Dec 2025)
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SDineshKumar1304&show_icons=true&locale=en" alt="SDineshKumar1304" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SDineshKumar1304&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SDineshKumar1304&" alt="SDineshKumar1304" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SDineshKumar1304&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SDineshKumar1304&show_icons=true&locale=en&layout=compact" alt="SDineshKumar1304" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SDineshKumar1304&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
----
-
-## 🚀 LeetCode Stats
+### 🚀 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=FFA116)](https://leetcode.com/u/Dinesh_Kumar_S_1329/)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dinesh_Kumar_S_1329/)
 
 ---
 
-## 📬 Connect With Me
+## 🌐 Connect With Me
 
-<div align="left">
+<p align="left">
   <a href="https://github.com/SDineshKumar1304">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/s-dinesh-kumar2004" target="_blank">
-    <img width="58px" height="40px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <h3>Email: <a href="mailto:svani4830@gmail.com">svani4830@gmail.com</a></h3>
-</div>
+  <a href="mailto:svani4830@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
