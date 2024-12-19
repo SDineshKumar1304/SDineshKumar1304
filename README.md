@@ -12,8 +12,7 @@
 
 I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engineering College**. Passionate about leveraging technology to drive meaningful advancements, I am committed to continuous learning and professional growth.
 
----
-## 📈 GitHub & LeetCode Stats
+---## 📈 GitHub & LeetCode Stats
 
 ### 📊 GitHub Stats
 
