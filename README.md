@@ -117,9 +117,7 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
 
 ## 📝 Technical Blog Contributions
 
-- 📰 **Generative AI**: [Exploring the Power of Generative AI](https://medium.com/your-profile-link)
-- 📝 **Deploying Flask Apps**: [A Step-by-Step Guide to Deploying Flask Apps](https://medium.com/your-profile-link)
-
+- 📰 **Generative AI**: [Exploring the Power of Generative AI]([https://medium.com/your-profile-link](https://medium.com/@DineshKumar1329))
 ---
 
 ## 🏆 Achievements & Certifications
@@ -131,8 +129,6 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
 - ✅ **HackerRank Gold Badge** for Python
 - 📜 **Certifications**:
   - **Generative AI** by Microsoft & LinkedIn
-  - **Deep Learning Specialization** by Andrew Ng (Coursera)
-  - **Data Science Professional Certificate** by IBM (Coursera)
 
 ---
 
