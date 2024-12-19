@@ -66,7 +66,7 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
     <td>
       <p>Flask web app that uses ML to screen tenants.</p>
       <a href="https://github.com/SDineshKumar1304/tenant-screening-app"><img src=" link
-      <a href="https://github.com/SDineshKumar1304/tenant-screening-app"><img src="https://img.shields.io/badge/Check%20It%20Out-8E44AD?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+     <a href="https://github.com/SDineshKumar1304/tenant-screening-app"><img src="https://img.shields.io/badge/Check%20It%20Out-8E44AD?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
     </td>
   </tr>
   <tr>
@@ -81,104 +81,63 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
 
 ---
 
-## 🏆 Achievements
+## 📝 Technical Blog Contributions
 
-- 📝 **Secured copyrights** for two AI-driven innovations:
-  - "An Animated Character Using AI to Represent Emotions in Online Conversations"
-  - "AI THROAT HEALTH" - AI-powered healthcare solution for throat health.
-- 🌐 **IEEE XTREME 17.0** Coding Competition **Global Rank 164**
-- 🎓 **Hackerrank** certifications in **Basics of Python** and **SQL**, **Gold Badge in Python**
-- 🎓 Completed **Microsoft** and **LinkedIn's Generative AI Program**
+- 📰 **Generative AI**: [Exploring the Power of Generative AI](https://medium.com/your-profile-link)
+- 📝 **Deploying Flask Apps**: [A Step-by-Step Guide to Deploying Flask Apps](https://medium.com/your-profile-link)
 
 ---
 
-## 📈 Stats & Metrics
+## 🏆 Achievements & Certifications
 
-## 💻 LeetCode Stats
-
-<div align="center">
-  <a href="https://leetcode.com/u/Dinesh_Kumar_S_1329/">
-    <img src="https://img.shields.io/badge/LeetCode-%23191417?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=light&font=roboto" alt="LeetCode Stats"/>
-</div>
+- 📄 **Copyrights**:
+  - **"An Animated Character That Uses AI To Represent Emotions During Online Conversations"**
+  - **"AI Throat Health"**
+- 🥇 **Global Rank 164** in **IEEE XTREME 17.0 Coding Competition**
+- ✅ **HackerRank Gold Badge** for Python
+- 📜 **Certifications**:
+  - **Generative AI** by Microsoft & LinkedIn
+  - **Deep Learning Specialization** by Andrew Ng (Coursera)
+  - **Data Science Professional Certificate** by IBM (Coursera)
 
 ---
 
-### **Key Stats**
-- **Problem Solved:** ![Problem Solved](https://img.shields.io/badge/Solved%20Problems-250-green?style=flat&logo=leetcode&logoColor=white)
-- **Rank:** ![LeetCode Rank](https://img.shields.io/badge/Rank-12345-blue?style=flat&logo=leetcode&logoColor=white)
-- **Rating:** ![LeetCode Rating](https://img.shields.io/badge/Rating-1600-orange?style=flat&logo=leetcode&logoColor=white)
+## 📈 GitHub & LeetCode Stats
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SDineshKumar1304&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SDineshKumar1304&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SDineshKumar1304&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+### 🚀 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dinesh_Kumar_S_1329/)
 
 ---
 
-### Top Tags:
-- **Algorithms**: ![Algorithms](https://img.shields.io/badge/Algorithms-300-orange?style=flat&logo=leetcode&logoColor=white)
-- **Data Structures**: ![Data Structures](https://img.shields.io/badge/Data_Structures-180-yellow?style=flat&logo=leetcode&logoColor=white)
-- **Dynamic Programming**: ![Dynamic Programming](https://img.shields.io/badge/DP-150-blue?style=flat&logo=leetcode&logoColor=white)
+## 🌐 Connect With Me
 
-## 🌐 Connect with Me
-
-<div align="left">
+<p align="left">
   <a href="https://github.com/SDineshKumar1304">
-    <img width="32" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/s-dinesh-kumar2004" target="_blank">
-    <img width="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:svani4830@gmail.com">
-    <img width="32" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.twitter.com/DineshKumarS1329">
-    <img width="32" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SDineshKumar1304&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SDineshKumar1304&layout=compact&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SDineshKumar1304&theme=radical)
-
----
-
-## 🎯 My Goals for 2024
-- Master cloud deployment for AI/ML applications.
-- Work on advanced ML projects and contribute to open-source repositories.
-- Continue learning and growing in **AI**, **Data Science**, and **Machine Learning**.
-
----
-
-## 🎨 Animated Icons and Graphics
-
-#### Check out this animated **Coded GIF**:
-![Eat Sleep Code Repeat](https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif)
-
-#### Animated Handshake for Connection:
-![Handshake GIF](https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif)
-
----
-
-## 📚 Education
-
-- **Bachelor of Technology** - Artificial Intelligence at **Panimalar Engineering College** (Dec 2021 - Dec 2025).
-
----
-
-Feel free to check out my [GitHub Repositories](https://github.com/SDineshKumar1304) for more projects!
-
----
-
+</p>
