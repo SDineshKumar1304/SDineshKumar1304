@@ -94,11 +94,31 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
 
 ## 📈 Stats & Metrics
 
-### LeetCode Stats
+## 💻 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=light&font=roboto)
+<div align="center">
+  <a href="https://leetcode.com/u/Dinesh_Kumar_S_1329/">
+    <img src="https://img.shields.io/badge/LeetCode-%23191417?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=light&font=roboto" alt="LeetCode Stats"/>
+</div>
 
 ---
+
+### **Key Stats**
+- **Problem Solved:** ![Problem Solved](https://img.shields.io/badge/Solved%20Problems-250-green?style=flat&logo=leetcode&logoColor=white)
+- **Rank:** ![LeetCode Rank](https://img.shields.io/badge/Rank-12345-blue?style=flat&logo=leetcode&logoColor=white)
+- **Rating:** ![LeetCode Rating](https://img.shields.io/badge/Rating-1600-orange?style=flat&logo=leetcode&logoColor=white)
+
+---
+
+### Top Tags:
+- **Algorithms**: ![Algorithms](https://img.shields.io/badge/Algorithms-300-orange?style=flat&logo=leetcode&logoColor=white)
+- **Data Structures**: ![Data Structures](https://img.shields.io/badge/Data_Structures-180-yellow?style=flat&logo=leetcode&logoColor=white)
+- **Dynamic Programming**: ![Dynamic Programming](https://img.shields.io/badge/DP-150-blue?style=flat&logo=leetcode&logoColor=white)
 
 ## 🌐 Connect with Me
 
