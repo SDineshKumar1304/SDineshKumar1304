@@ -12,6 +12,7 @@
 
 I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engineering College**. Passionate about leveraging technology to drive meaningful advancements, I am committed to continuous learning and professional growth.
 
+<img align="right" height="200" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
 - 🤓 Former **Junior Data Science Intern** at **Innomatics Research Labs**
 - 🔍 Interested in **Artificial Intelligence, Machine Learning, and Data Science**
@@ -28,6 +29,8 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
 </p>
@@ -39,6 +42,7 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
 </p>
 
 ### **Tools & Databases**
@@ -48,18 +52,49 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
+
+---
+
+## 🚀 Projects
+
+### **1. Tenant Screening Application**
+- **Description**: Developed a Flask web application that uses machine learning to evaluate tenant applications based on various criteria.
+- **Tech Stack**: Flask, MySQL, Pandas, Scikit-Learn, Decision Tree Classifier
+- **GitHub**: [Tenant Screening App](https://github.com/SDineshKumar1304/tenant-screening-app)
+
+### **2. AI Throat Health**
+- **Description**: An AI-powered healthcare solution for diagnosing throat-related conditions.
+- **Tech Stack**: Python, TensorFlow, OpenCV
+- **Achievements**: Granted Copyright Protection
+- **GitHub**: [AI Throat Health](https://github.com/SDineshKumar1304/ai-throat-health)
+
+### **3. DogCat Classification Model**
+- **Description**: Developed a deep learning model to classify images of dogs and cats.
+- **Tech Stack**: Python, TensorFlow, Keras
+- **GitHub**: [DogCat Classifier](https://github.com/SDineshKumar1304/dogcat-classifier)
+
+---
+
+## 📝 Technical Blog Contributions
+
+- 📰 **Generative AI**: [Exploring the Power of Generative AI](https://medium.com/your-profile-link)
+- 📝 **Deploying Flask Apps**: [A Step-by-Step Guide to Deploying Flask Apps](https://medium.com/your-profile-link)
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 📄 **Copyrights** for two innovative AI software solutions:
-  - **"An Animated Character That Uses AI To Represent Emotions During Online Conversations Without Using Emojis"**
-  - **"AI THROAT HEALTH"** - An AI-powered healthcare solution.
+- 📄 **Copyrights**:
+  - **"An Animated Character That Uses AI To Represent Emotions During Online Conversations"**
+  - **"AI Throat Health"**
 - 🥇 **Global Rank 164** in **IEEE XTREME 17.0 Coding Competition**
 - ✅ **HackerRank Gold Badge** for Python
-- 📜 Certified in **Generative AI** by **Microsoft & LinkedIn**
+- 📜 **Certifications**:
+  - **Generative AI** by Microsoft & LinkedIn
+  - **Deep Learning Specialization** by Andrew Ng (Coursera)
+  - **Data Science Professional Certificate** by IBM (Coursera)
 
 ---
 
