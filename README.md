@@ -12,7 +12,8 @@
 
 I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engineering College**. Passionate about leveraging technology to drive meaningful advancements, I am committed to continuous learning and professional growth.
 
----## 📈 GitHub & LeetCode Stats
+---
+## 📈 GitHub & LeetCode Stats
 
 ### 📊 GitHub Stats
 
@@ -28,7 +29,7 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SDineshKumar1304&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-### 🔥 GitHub Heatmap
+### 🔥 GitHub 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SDineshKumar1304&theme=github" alt="GitHub Heatmap" />
