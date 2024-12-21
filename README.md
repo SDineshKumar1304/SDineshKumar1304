@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=SDineshKumar1304-codes&label=Profile%20views&color=0e75b6&style=flat" alt="SDineshKumar1304" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=F70000&center=true&vCenter=true&width=470&height=80&lines=Hey%21+It%27s+Dinesh+Kumar;%F0%9F%92%BB+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=F70000&center=true&vCenter=true&width=470&height=80&lines=Hey%21+It%27s+Dinesh+Kumar;%F0%9F%92%BB+🤓Engineer)](https://git.io/typing-svg)
 
 ---
 
