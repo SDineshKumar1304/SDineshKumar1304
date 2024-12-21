@@ -37,18 +37,16 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
 <p align="center">
   <img src="https://leetcode-stats.vercel.app/api?username=Dinesh_Kumar_S_1329&theme=dark" alt="LeetCode Stats" />
 </p>
-
 ### 🚀 LeetCode Stats
 
 #### 📊 Problem-Solving Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark&font=Fira%20Code&ext=stats" alt="LeetCode Stats" />
-</p>
 
-#### 🔥 Heatmap Activity
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap" />
-</p>
+[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Dinesh_Kumar_S_1329-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dinesh_Kumar_S_1329/)
+
+#### 🔥 LeetCode Heatmap
+
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark&ext=heatmap)](https://leetcode.com/u/Dinesh_Kumar_S_1329/)
+
 
 
 ---
