@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SDineshKumar1304-codes&label=Profile%20views&color=0e75b6&style=flat" alt="SDineshKumar1304" />
+  <img src="https://komarev.com/ghpvc/?username=SDineshKumar1304-codes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=F70000&center=true&vCenter=true&width=470&height=80&lines=Hey%21+It%27s+Dinesh+Kumar;%F0%9F%92%BB+🤓Engineer)](https://git.io/typing-svg)
@@ -13,6 +13,7 @@
 I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engineering College**. Passionate about leveraging technology to drive meaningful advancements, I am committed to continuous learning and professional growth.
 
 ---
+
 ## 📈 GitHub & LeetCode Stats
 
 ### 📊 GitHub Stats
@@ -29,22 +30,13 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SDineshKumar1304&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-### 🔥 GitHub 
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SDineshKumar1304&theme=github" alt="GitHub Heatmap" />
-</p>
-
 ### 🚀 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  **LeetCode Stats are currently unavailable.**
 </p>
 
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dinesh_Kumar_S_1329/)
-
 ---
-
 
 ## 🛠️ Skills & Technologies
 
@@ -56,22 +48,6 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
 </p>
-
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/SDineshKumar1304">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/s-dinesh-kumar2004" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:svani4830@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
 
 ### **Libraries & Frameworks**
 
@@ -103,8 +79,7 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
     <td><strong>Tenant Screening Application</strong></td>
     <td>
       <p>Flask web app that uses ML to screen tenants.</p>
-      <a href="https://github.com/SDineshKumar1304/tenant-screening-app"><img src=" link
-     <a href="https://github.com/SDineshKumar1304/Tenant_Application"><img src="https://img.shields.io/badge/Check%20It%20Out-8E44AD?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+      <a href="https://github.com/SDineshKumar1304/tenant-screening-app"><img src="https://img.shields.io/badge/Check%20It%20Out-8E44AD?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
     </td>
   </tr>
   <tr>
@@ -121,7 +96,8 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
 
 ## 📝 Technical Blog Contributions
 
-- 📰 **Generative AI**: [Exploring the Power of Generative AI]([https://medium.com/your-profile-link](https://medium.com/@DineshKumar1329))
+- 📰 **Generative AI**: [Exploring the Power of Generative AI](https://medium.com/@DineshKumar1329)
+
 ---
 
 ## 🏆 Achievements & Certifications
@@ -136,4 +112,16 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/SDineshKumar1304">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/s-dinesh-kumar2004" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:svani4830@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
