@@ -30,10 +30,11 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SDineshKumar1304&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
+
 ### 🚀 LeetCode Stats
 
 <p align="center">
-  **LeetCode Stats are currently unavailable.**
+  <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
