@@ -33,10 +33,15 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
 
 ### 🚀 LeetCode Stats
 
+#### 📊 Problem-Solving Stats
 <p align="center">
   <img src="https://leetcode-stats.vercel.app/api?username=Dinesh_Kumar_S_1329&theme=dark" alt="LeetCode Stats" />
 </p>
 
+#### 🔥 Heatmap Activity
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap" />
+</p>
 
 ---
 
