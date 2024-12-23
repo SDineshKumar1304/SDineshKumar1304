@@ -38,6 +38,9 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 </p>
 
 <p align="center">
+
+
+https://assets.leetcode.com/static_assets/marketing/2024-50.gif
   
 🎉 **Achievement**: **50-day LeetCode Streak!** 🏆
 
