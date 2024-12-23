@@ -88,7 +88,7 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
   </tr>
   <tr>
     <td>🎯</td>
-    <td><strong>AI-Powered Throat Health Application</strong></td>
+    <td><strong>Education Assistant story explanation</strong></td>
     <td>
       <p>AI Education Assistant.</p>
       <a href="https://github.com/SDineshKumar1304/Edu_Assistant">
