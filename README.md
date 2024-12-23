@@ -1,7 +1,7 @@
-# Hi there! 👋
+# Hi there! 👋 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SDineshKumar1304-codes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=SDineshKumar1304-codes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=F70000&center=true&vCenter=true&width=470&height=80&lines=Hey%21+It%27s+Dinesh+Kumar;%F0%9F%92%BB+🤓Engineer)](https://git.io/typing-svg)
@@ -10,46 +10,40 @@
 
 ## About Me 🚀
 
-I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engineering College**. Passionate about leveraging technology to drive meaningful advancements, I am committed to continuous learning and professional growth.
+I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engineering College**.  
+Passionate about leveraging technology to drive meaningful advancements, I am committed to continuous learning and professional growth.
 
 ---
 
 ## 📈 GitHub & LeetCode Stats
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SDineshKumar1304&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SDineshKumar1304&theme=dark" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SDineshKumar1304&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-
 ### 🚀 LeetCode Stats
-
 #### 📊 Problem-Solving Stats
-
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=Dinesh_Kumar_S_1329&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark" alt="LeetCode Stats" />
 </p>
 
-
-#### 📊 Leetcode Heatmap
-
-[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Dinesh_Kumar_S_1329-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Dinesh_Kumar_S_1329/)
+#### 🔥 LeetCode Heatmap
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
+</p>
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 ### **Programming Languages**
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=white" alt="SQL">
@@ -58,7 +52,6 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
 </p>
 
 ### **Libraries & Frameworks**
-
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
@@ -68,7 +61,6 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
 </p>
 
 ### **Tools & Databases**
-
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
@@ -87,7 +79,9 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
     <td><strong>Tenant Screening Application</strong></td>
     <td>
       <p>Flask web app that uses ML to screen tenants.</p>
-      <a href="https://github.com/SDineshKumar1304/tenant-screening-app"><img src="https://img.shields.io/badge/Check%20It%20Out-8E44AD?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+      <a href="https://github.com/SDineshKumar1304/tenant-screening-app">
+        <img src="https://img.shields.io/badge/Check%20It%20Out-8E44AD?style=flat&logo=github&logoColor=white" alt="GitHub">
+      </a>
     </td>
   </tr>
   <tr>
@@ -95,7 +89,9 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
     <td><strong>AI-Powered Throat Health Application</strong></td>
     <td>
       <p>AI Education Assistant.</p>
-      <a href="https://github.com/SDineshKumar1304/Edu_Assistant"><img src="https://img.shields.io/badge/Explore%20Project-1ABC9C?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+      <a href="https://github.com/SDineshKumar1304/Edu_Assistant">
+        <img src="https://img.shields.io/badge/Explore%20Project-1ABC9C?style=flat&logo=github&logoColor=white" alt="GitHub">
+      </a>
     </td>
   </tr>
 </table>
@@ -128,8 +124,5 @@ I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engin
   </a>
   <a href="https://www.linkedin.com/in/s-dinesh-kumar2004" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:svani4830@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
