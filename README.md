@@ -31,11 +31,6 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 ### 🚀 LeetCode Stats
 #### 📊 Problem-Solving Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark" alt="LeetCode Stats" />
-</p>
-
-#### 🔥 LeetCode Heatmap
-<p align="center">
   <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
 </p>
 
