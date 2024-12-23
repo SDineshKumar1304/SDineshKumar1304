@@ -15,31 +15,6 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 
 ---
 
-## 📈 GitHub & LeetCode Stats
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SDineshKumar1304&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SDineshKumar1304&theme=dark" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SDineshKumar1304&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
-
-
-#### 🔥 LeetCode Achievements
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
-</p>
-
-<p align="center">
-
-
 #### 🔥 LeetCode Achievements
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
@@ -51,8 +26,20 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 
 🎉 **Achievement**: **50-day LeetCode Streak!** 🏆
 
-  
-🎉 **Achievement**: **50-day LeetCode Streak!** 🏆
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SDineshKumar1304&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SDineshKumar1304&theme=dark" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SDineshKumar1304&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ---
 
