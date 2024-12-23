@@ -30,12 +30,7 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 
 ---
 
-### 🚀 LeetCode Stats
 
-#### 📊 Problem-Solving Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark" alt="LeetCode Stats" />
-</p>
 
 #### 🔥 LeetCode Achievements
 <p align="center">
@@ -43,9 +38,7 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/d5x3vj0H3L4eqPbLxv/giphy.gif" width="300" alt="50 Days Streak Badge Animation" />
-</p>
-
+  
 🎉 **Achievement**: **50-day LeetCode Streak!** 🏆
 
 ---
