@@ -40,35 +40,12 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SDineshKumar1304&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
-
----
-## 📈 GitHub & LeetCode Stats
-
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SDineshKumar1304&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
+---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SDineshKumar1304&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SDineshKumar1304&theme=dark" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SDineshKumar1304&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-### 🚀 LeetCode Stats
-#### 📊 Problem-Solving Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
-</p>
-<p align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="300" alt="50 Days Streak Badge Animation" />
-</p>
-🎉 **Achievement**: **50-day LeetCode Streak!** 🏆
 ## 🛠️ Skills & Technologies
 
 ### **Programming Languages**
