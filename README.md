@@ -18,9 +18,11 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 #### 🔥 LeetCode Achievements
 
 
-[![Screenshot-2025-01-04-09-42-28-96-254de13a4bc8758c9908fff1f73e3725-2.jpg](https://i.postimg.cc/MT0sGZz9/Screenshot-2025-01-04-09-42-28-96-254de13a4bc8758c9908fff1f73e3725-2.jpg)](https://postimg.cc/ftL72Ntd)
 
 
+<p align="center">
+![image](https://github.com/user-attachments/assets/64edde3c-e17f-46fd-a49b-dce65c7715fc)
+</p>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
 </p>
