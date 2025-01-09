@@ -20,9 +20,9 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 
 
 
-<p align="center">
 ![image](https://github.com/user-attachments/assets/64edde3c-e17f-46fd-a49b-dce65c7715fc)
-</p>
+
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
 </p>
