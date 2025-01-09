@@ -24,16 +24,18 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Dinesh_Kumar_S_1329?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="300" alt="50 Days Streak Badge Animation" />
+  
 
   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" width="300" alt="50 Days Streak Badge Animation" />
 
-
+</p>
 🎉 **Achievement**: **50-day LeetCode Streak!** 🏆
 
 
 ---
 
 ## GitHub Stats
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SDineshKumar1304&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
