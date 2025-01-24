@@ -20,7 +20,7 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 
 
 
-![image](https://github.com/user-attachments/assets/64edde3c-e17f-46fd-a49b-dce65c7715fc)
+
 
 
 <p align="center">
