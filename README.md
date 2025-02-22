@@ -38,7 +38,9 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" width="300" alt="50 Days Streak Badge Animation" />
 </p>
 
-
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="300" alt="50 Days Streak Badge Animation" />
+</p>
 </p>
 🎉 **Achievement**: **50-day LeetCode Streak!** 🏆
 
