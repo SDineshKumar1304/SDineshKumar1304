@@ -22,7 +22,12 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 </p>
 
 
-[View my HackerRank profile](https://www.hackerrank.com/profile/svani4830)
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/svani4830" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Profile-HackerRank-brightgreen?style=for-the-badge" />
+  </a>
+</p>
+
 
 ### 🔥 LeetCode Achievements
 
