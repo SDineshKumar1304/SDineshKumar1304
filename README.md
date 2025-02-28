@@ -21,12 +21,7 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 </p>
 
 
-#### 🔥 LeetCode Achievements
-
-
-
-
-
+### 🔥 LeetCode Achievements
 
 
 <p align="center">
