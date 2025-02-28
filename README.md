@@ -30,16 +30,16 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 <p>
 
   <p align="center">
-      <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="300" alt="50 Days Streak Badge Animation" />
+      <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="300" alt=" Streak Badge Animation" />
   </p>
 
 
 <p align="center">
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" width="300" alt="50 Days Streak Badge Animation" />
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" width="300" alt=" Streak Badge Animation" />
 </p>
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/90954fbc-ae5e-44b5-9ab0-49cd65fbb519)" width="300" alt="50 Days Streak Badge Animation" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" width="300" alt=" Streak Badge Animation" />
 </p>
 
 
