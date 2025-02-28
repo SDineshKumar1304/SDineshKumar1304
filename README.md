@@ -16,11 +16,11 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 ---
 ### HackerRank  
 
+
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/svani4830" target="_blank">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/125432987/418038834-fc04072b-4c52-442a-a550-d09b038bd24a.png" width="200">
-  </a>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/125432987/418038834-fc04072b-4c52-442a-a550-d09b038bd24a.png" width="200">
 </p>
+
 
 [View my HackerRank profile](https://www.hackerrank.com/profile/svani4830)
 
