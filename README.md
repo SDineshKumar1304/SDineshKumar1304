@@ -16,7 +16,9 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 ---
 ### HackerRank
 
-![image](https://github.com/user-attachments/assets/fc04072b-4c52-442a-a550-d09b038bd24a)
+<p align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/125432987/418038834-fc04072b-4c52-442a-a550-d09b038bd24a.png" width="200">
+</p>
 
 
 #### 🔥 LeetCode Achievements
