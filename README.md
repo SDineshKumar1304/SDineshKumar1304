@@ -18,7 +18,7 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 
 
 <p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/125432987/418038834-fc04072b-4c52-442a-a550-d09b038bd24a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250228%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250228T133321Z&X-Amz-Expires=300&X-Amz-Signature=d333daca90560c5f4b460c359c0b3a0f029bb3060326f1b2729d3d724c75f191&X-Amz-SignedHeaders=host" width="200",href= 'https://www.hackerrank.com/profile/svani4830'>
+  ![image](https://github.com/user-attachments/assets/35a908b7-8e78-4c16-a124-090580c5040c)
 </p>
 
 
