@@ -166,7 +166,7 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
   <a href="https://github.com/SDineshKumar1304">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/s-dinesh-kumar2004" target="_blank">
+  <a href="www.linkedin.com/in/dinesh-kumar2004" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
