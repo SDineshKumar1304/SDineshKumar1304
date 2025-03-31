@@ -17,9 +17,9 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 ### HackerRank  
 
 
-<p align="center">
+
   ![image](https://github.com/user-attachments/assets/35a908b7-8e78-4c16-a124-090580c5040c)
-</p>
+
 
 
 <p align="center">
