@@ -62,7 +62,11 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 
 ## 🎉 **Achievement**: **50-day LeetCode Streak!** 🏆
 
+# 💥 100 days of Leetcode
 
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="300" alt="50 Days Streak Badge Animation" />
+</p>
 ---
 
 ## GitHub Stats
