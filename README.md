@@ -10,10 +10,10 @@
 
 ## About Me 🚀
 
--- I'm a **Software Engineer** at **Capgemini**.  
+- I'm a **Software Engineer** at **Capgemini**.  
 
 
--- I’m a person who enjoys using technology to solve real-life problems. I like learning new things, trying out ideas, and building things that can help people. I enjoy working with others and believe that we grow by learning and doing. Outside of tech, I like to think creatively and find inspiration in simple things around me.
+- I’m a person who enjoys using technology to solve real-life problems. I like learning new things, trying out ideas, and building things that can help people. I enjoy working with others and believe that we grow by learning and doing. Outside of tech, I like to think creatively and find inspiration in simple things around me.
 
 leetcode : https://leetcode.com/u/Dinesh_Kumar_S_1329/
 GitHub: https://github.com/SDineshKumar1304
