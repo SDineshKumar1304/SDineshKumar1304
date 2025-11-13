@@ -10,12 +10,16 @@
 
 ## About Me 🚀
 
-I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engineering College**.  
-Passionate about leveraging technology to drive meaningful advancements, I am committed to continuous learning and professional growth.
+I'm a **Software Engineer** at **Capgemini**.  
+🤠
+<))>. 💻✨
+✓ \_. 
+I’m a person who enjoys using technology to solve real-life problems. I like learning new things, trying out ideas, and building things that can help people. I enjoy working with others and believe that we grow by learning and doing. Outside of tech, I like to think creatively and find inspiration in simple things around me.
 
+leetcode : https://leetcode.com/u/Dinesh_Kumar_S_1329/
+GitHub: https://github.com/SDineshKumar1304
 ---
 ### HackerRank  
-
 
 
   ![image](https://github.com/user-attachments/assets/35a908b7-8e78-4c16-a124-090580c5040c)
